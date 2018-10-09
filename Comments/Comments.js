@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import style from "./Comments.css"
+import style from './Comments.css'; // Import the Comments style sheet.
 
 var firebase = require('firebase'); // Firebase should be installed from npm first (npm install --save firebase)
 var uuid = require('uuid');  // UUID should be installed from npm first (npm install --save uuid)
