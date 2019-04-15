@@ -13,4 +13,6 @@ Add a “Scroll to top” icon to bring the user back to top (duh).  <a href="ht
 ## StickyNav
 A nav element with dynamic class on scroll. <a href="https://github.com/marcandrelavigne/React-Components/blob/master/StickyNav.js">Link</a>
 
+<br />
+<br />
 More to come...
